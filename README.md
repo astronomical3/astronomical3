@@ -38,7 +38,7 @@ My name is Victoria, but you can call me by my nickname, Astronomical (or Astro,
 ## How to reach me:
 - [LinkedIn profile](https://www.linkedin.com/in/victoriabrunner/)
 - Email (astrobrunner@gmail.com)
-- [Discussion Section](https://github.com/astronomical3/astronomical3/discussions) on the repo to this profile
+- [Discussion Section](https://github.com/astronomical3/astronomical3/discussions) on the repo to this profile (where we can talk about almost anything, pretty much)
 - Discussion Sections on the repos above (be sure to ask to join them -- I can definitely use some help)
 - Create an issue on the repos above
 - Fork and clone the repos above for pull requests
