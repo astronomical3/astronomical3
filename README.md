@@ -29,6 +29,12 @@ My name is Victoria, but you can call me by my nickname, Astronomical (or Astro,
 - Music
 - Business and Entrepreneurship
 
+## What I want to learn:
+- More hardware and software development skills
+- More business and entrepreneurship skills
+- Product development and management
+- 3D PRINTING AND CNC TOOLING!  (I hear it's really cool!)
+
 ## How to reach me:
 - [LinkedIn profile](https://www.linkedin.com/in/victoriabrunner/)
 - Email (astrobrunner@gmail.com)
