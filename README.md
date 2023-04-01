@@ -27,6 +27,7 @@ My name is Victoria, but you can call me by my nickname, Astronomical (or Astro,
 - Hardware or Software development skills
 - Sports
 - Music
+- Animals (especially cats 🐈 🐈 🐈)
 - Business and Entrepreneurship
 
 ## What I want to learn:
