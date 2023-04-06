@@ -30,7 +30,7 @@ My name is Victoria, but you can call me by my nickname, Astronomical (or Astro,
 - Animals (especially cats 🐈 🐈 🐈)
 - Business and Entrepreneurship
 
-## What I want to learn:
+## What I am open to learning:
 - More hardware and software development skills
 - More business and entrepreneurship skills
 - Product development and management
