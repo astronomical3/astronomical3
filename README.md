@@ -8,7 +8,6 @@ My name is Victoria, but you can call me by my nickname, Astronomical (or Astro,
 ## Some projects I am currently working on:
 - [GitScripts](https://github.com/astronomical3/GitScripts)
 - [Interactive Mad Libs](https://github.com/astronomical3/interactive-mad-libs)
-- [The Spongebob ASCII Art Repo](https://github.com/astronomical3/spongebob-ascii-art)
 
 ## What I am currently learning:
 - Git and GitHub (of course)
